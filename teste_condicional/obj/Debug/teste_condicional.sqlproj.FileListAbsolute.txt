@@ -1,0 +1,9 @@
+C:\projetosDicoC\Johnson\teste_condicional\teste_condicional\bin\Debug\teste_condicional.dacpac
+C:\projetosDicoC\Johnson\teste_condicional\teste_condicional\bin\Debug\teste_condicional.dll
+C:\projetosDicoC\Johnson\teste_condicional\teste_condicional\bin\Debug\teste_condicional.pdb
+C:\projetosDicoC\Johnson\teste_condicional\teste_condicional\obj\Debug\teste_condicional.dll
+C:\projetosDicoC\Johnson\teste_condicional\teste_condicional\obj\Debug\teste_condicional.pdb
+C:\projetosDicoC\Johnson\teste_condicional\teste_condicional\obj\Debug\Model.xml
+C:\projetosDicoC\Johnson\teste_condicional\teste_condicional\obj\Debug\refactor.xml
+C:\projetosDicoC\Johnson\teste_condicional\teste_condicional\obj\Debug\postdeploy.sql
+C:\projetosDicoC\Johnson\teste_condicional\teste_condicional\obj\Debug\predeploy.sql
